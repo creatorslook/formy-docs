@@ -12,7 +12,7 @@ hero:
       link: /guide/
     - theme: alt
       text: View on Github
-      link: /api-examples
+      link: https://github.com/creatorslook/formy
 
 features:
   - icon: 
