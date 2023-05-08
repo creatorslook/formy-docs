@@ -1,6 +1,5 @@
 # Get Started
 
-You can try Formy directly in your browser on [StackBlitz](https://vitepress.new/).
 
 ## Installation
 ### Prerequisites

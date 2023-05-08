@@ -4,9 +4,6 @@ Formy is a react library designed for integrating form validation easily. Formy 
 
 Formy is very flexible and does not take over your whole form, but rather handles individual inputs, which makes it easy to integrate into any project
 
-:::tip
-Just want to try it out ?. You can try it out on [StackBlitz](https://www.codesandbox.com)
-:::
 
 ## Features
 - **Inline Validation**
